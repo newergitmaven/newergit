@@ -9,5 +9,7 @@ public class App {
     System.out.println("Hello SONG");
     System.out.println("hello ");
     System.out.println("Hi SONG - NEWER");
+
+    System.out.println("冲突");
   }
 }
