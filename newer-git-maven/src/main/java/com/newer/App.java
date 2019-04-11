@@ -11,5 +11,7 @@ public class App {
     System.out.println("Hi SONG - NEWER");
 
     System.out.println("冲突");
+
+    System.out.println("Hi SONG - dev 分支");
   }
 }
